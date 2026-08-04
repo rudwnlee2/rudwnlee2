@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Tokenphage](https://api.tokenphage.com/badge/rudwnlee2?mode=dark)](https://github.com/TOKENPHAGE)
 [![TokenPhage](https://api.tokenphage.com/badge/rudwnlee2?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
